@@ -12,4 +12,7 @@ Hello, my name is Guyon Ganchi and I am currently a student at IU Indianapolis s
 - Prediction Model Development
 - Web Scraping
 
-If you would like to contact me, please feel free to reach out to me at guyonbentley@gmail.com or on LinkedIn (https://www.linkedin.com/in/guyon-ganchi-500a0617a/)
+# Contact Information:
+If you would like to contact me, please feel free to reach out to me at:
+- Email: guyonbentley@gmail.com 
+- LinkedIn: https://www.linkedin.com/in/guyon-ganchi-500a0617a/
