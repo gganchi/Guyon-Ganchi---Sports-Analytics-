@@ -5,7 +5,7 @@ Hello, my name is Guyon Ganchi and I am currently a student at IU Indianapolis s
 - 2025-26 NBA MVP Prediction: Developed a predictive model (XGBoost) that outputs a .csv file displaying the odds of a NBA player winning the 2025-26 NBA MVP.
 - Salary Determination of a NBA Free Agent: Created a logistic regression model to predict a NBA free agent's salary based on the 2017 NBA collective bargaining agreement.
 
-Technical Skills:
+# Technical Skills:
 - Python
 - R 
 - SQL
