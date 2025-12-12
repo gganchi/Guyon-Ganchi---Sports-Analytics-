@@ -1,5 +1,5 @@
-# Guyon-Ganchi 
-Hello, my name is Guyon Ganchi and I am currently a student at IU Indianapolis studying sports analytics. While I do specialize in basketball, specifially the NBA, I'm also familiar with other sports and always willing to learn more as well as to diversify my technical skillset. 
+# About Me
+Hello, my name is Guyon Ganchi and I am currently a student at IU Indianapolis studying sports analytics. While I do specialize in basketball, specifially the NBA, I'm also familiar with other sports and always willing to learn more as well as to diversify my technical skillset. I currently work with the IU Indy women's basketball team providing the team analytial insights ranging from team and individual performance to opponent scouting.
 
 # Projects Worked on:
 - 2025-26 NBA MVP Prediction: Developed a predictive model (XGBoost) that outputs a .csv file displaying the odds of a NBA player winning the 2025-26 NBA MVP.
